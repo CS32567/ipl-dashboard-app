@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.team-matches-container {
+  background-color: #0f172a;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.team-banner {
+  width: 100%;
+}
+.recent-matches-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}

@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.team-card {
+  list-style-type: none;
+  width: 45%;
+  margin: 10px;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+}
+
+.team-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.team-logo {
+  width: 60px;
+  margin-right: 10px;
+}
+
+.team-name {
+  color: #ffffff;
+  font-family: Bree Serif;
+}
